@@ -1,2 +1,2 @@
 # testrepos
-This is just for testing the github function
+This is just for testing the Github function.
